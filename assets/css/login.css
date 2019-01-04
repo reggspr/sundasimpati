@@ -1,0 +1,54 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background: #333 url(images/4fb672b152ecb.jpg);
+	background-position: center;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-size: 70%;
+}
+.header{
+	background: #666;
+	height: 60px;
+	text-align: left;
+	width: 100%;
+	color: #000;
+	margin: 0 auto;
+}
+.header p{
+	margin-left: 50px;
+	padding-top: 13px;
+	font-family: impact;
+	font-size: 24px;
+}
+.footer{
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+	height: 50px;
+	background: #666;
+	text-align: center;
+	color: #000;
+	margin: 0;
+	font-size: 16px;
+}
+.form-login{
+	width: 300px;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+.form-login input[type="submit"]{
+	margin: 10px;
+}
+.form-login h1{
+	background: #666;
+	text-align: center;
+	padding: 10px;
+	color: black;
+	margin-bottom: 0;
+	font-size: 16px;
+	font-family: Elephant;
+}
+.image{
+	display: inline;
+}
